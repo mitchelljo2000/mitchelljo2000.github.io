@@ -1,0 +1,22 @@
+h1 {
+	text-align: center;
+	font-family: "Times New Roman";
+	border-style: dashed;
+}
+
+.def {
+	font-weight: bold;
+}
+
+.sq {
+	list-style: square;
+}
+
+p {
+	font-family: "Comic Sans MS";
+}
+
+body {
+	color: white;
+	background-color: black;
+}
