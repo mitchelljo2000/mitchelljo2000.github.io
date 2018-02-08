@@ -10,11 +10,11 @@ h1 {
 
 .sq {
 	list-style: square;
+	font-family: "Comic Sans MS";
 }
 
 p {
 	font-family: "Comic Sans MS";
-	font-weight: normal;
 }
 
 body {
